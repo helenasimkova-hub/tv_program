@@ -3,7 +3,7 @@
 Klikací prototyp TV programu pro smart TV, ovládaný klávesnicí jako dálkovým ovladačem.
 
 - `index.html` – rozcestník verzí
-- `a.html`, `b.html`, `c.html`, `d.html` – jednotlivé verze prototypu
+- `a.html`, `b.html`, `c.html`, `d.html`, `e.html` – jednotlivé verze prototypu
 
 Ovládání: šipky, Enter, Backspace / Esc (zpět).
 
